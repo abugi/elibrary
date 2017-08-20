@@ -1,0 +1,28 @@
+{
+  "name": "elibrary",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Sanjog Sigdel",
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algosig/elibrary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/algosig/elibrary/issues"
+  },
+  "homepage": "https://github.com/algosig/elibrary#readme",
+  "description": ""
+}
