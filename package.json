@@ -15,7 +15,8 @@
   "devDependencies": {},
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "gulp": "^3.9.1"
   },
   "repository": {
     "type": "git",
